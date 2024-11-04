@@ -1,0 +1,15 @@
+input {border: 0px;
+    border-bottom: solid 1px }
+    input:focus { border: solid 1px limegreen;
+      outline: none
+    }
+    
+    input:hover { border: solid 1px red}
+ .body{
+    background-color: rgb(178, 240, 219);
+ }   
+ .color{
+    color: rgb(66, 78, 78);
+ }
+
+
